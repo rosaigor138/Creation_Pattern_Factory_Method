@@ -1,6 +1,6 @@
 package org.example;
 
-public class ServicoFactory {
+public class ServiceFactory {
 
     public static IService service(String service) {
         Class aClass = null;
